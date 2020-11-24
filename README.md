@@ -12,14 +12,8 @@ Steps
 - PCA
 
 ## MUSIC_results
-results and modified codes [MUSIC][link].
-[link]: https://github.com/bm2-lab/MUSIC
-
-This [website][an_awesome_website_link] is awesome.
-
-You will never use anything else than this [website][an_awesome_website_link].
-
-[an_awesome_website_link]: https://stackoverflow.com
+results and modified codes [MUSIC][an_awesome_website_link].
+[an_awesome_website_link]: https://github.com/bm2-lab/MUSIC
 
 ## Perturb-SNN
 one-shot leearning with Siamese net work/ Triplet net work with triplet loss => good results 
