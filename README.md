@@ -12,13 +12,13 @@ Steps
 - PCA
 
 ## MUSIC_results
-results and modified codes [MUSIC][an_awesome_website_link].
+Results and modified codes [MUSIC][an_awesome_website_link].
 
 [an_awesome_website_link]: https://github.com/bm2-lab/MUSIC
 
 
 ## Perturb-SNN
-one-shot leearning with Siamese net work/ Triplet net work with triplet loss => good results 
+One-shot leearning with Siamese net work/ Triplet net work with triplet loss => good results 
 
 ## cavia
 Fast Context Adaptation via Meta-Learning
@@ -27,10 +27,10 @@ Fast Context Adaptation via Meta-Learning
 Model-Agnostic Meta-Learning (few-shot learning) 
 
 ## matchingnetwork
-simple version of Matching Networks for One Shot Learning
+Simple version of Matching Networks for One Shot Learning
 
 ## kernel
-kernel methods
+Kernel methods
 
 
 
